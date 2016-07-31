@@ -186,7 +186,7 @@ Time-Frequency Analysis (Gábor)
 \end_layout
 
 \begin_layout Standard
-The basis used for time-frequency analysis in this assignment is the Gábor
+The basis used for time-frequency analysis in this project is the Gábor
  transform.
  This technique is a windowed Fourier transform where time and frequency
  components are identified.
@@ -551,7 +551,7 @@ Classify results
 
 \end_deeper
 \begin_layout Standard
-The music used for this assignment was extracted from my iTunes music collection.
+The music used for this project was extracted from my iTunes music collection.
  All of the tracks were preprocessed in an audio editing application (
 \emph on
 Audacity
